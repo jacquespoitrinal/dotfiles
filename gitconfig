@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jacques.poitrinal@sciencespo.fr
+	name = jacques poitrinal
